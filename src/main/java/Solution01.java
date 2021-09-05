@@ -20,8 +20,8 @@ public class Solution01 {
 /*
     PseudoCode
     Display "What is your name?" to ask user for name
-    get userName from user
-    Display "Hello, (insert userName), nice to meet you!"
+    get userName from user in the command line
+    Display "Hello, (insert userName), nice to meet you!" to standard output
     END
 
  */
